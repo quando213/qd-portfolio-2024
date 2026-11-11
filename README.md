@@ -1,61 +1,28 @@
-# qd-portfolio-2024
+# quando.dev
 
-This template should help get you started developing with Vue 3 in Vite.
+Personal portfolio of Quan Do. Next.js 16 (App Router, static export) + Tailwind CSS 4 and TypeScript 7, deployed to GitHub Pages.
 
-## Recommended IDE Setup
+## Develop
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+Requires Node 26 (see `.nvmrc`).
 
 ```sh
 npm install
+npm run dev        # http://localhost:3000
+npm run build      # static site in ./out
+npm run type-check
 ```
 
-### Compile and Hot-Reload for Development
+## Editing content
 
-```sh
-npm run dev
-```
+- `src/content/profile.ts`: intro, about text, experience.
+- `src/content/projects.ts`: selected work and the other-work list. Case study pages are switched off:
+  to bring them back, set `showCaseStudies` to `true` there and rename `src/app/_work` to `src/app/work`.
+  Set `hidden: true` to keep a project out of the build.
+- Screenshots go in `public/images/work/<slug>/` and are listed in the project's `images` array.
+  A project with no images shows a tinted placeholder. Keep images around 1800px wide, JPEG or WebP.
 
-### Type-Check, Compile and Minify for Production
+## Deploy
 
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Run End-to-End Tests with [Cypress](https://www.cypress.io/)
-
-```sh
-npm run test:e2e:dev
-```
-
-This runs the end-to-end tests against the Vite development server.
-It is much faster than the production build.
-
-But it's still recommended to test the production build with `test:e2e` before deploying (e.g. in CI environments):
-
-```sh
-npm run build
-npm run test:e2e
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Pushing to `main` runs `.github/workflows/deploy-pages.yml`, which builds and publishes `./out`.
+If the site is served from `<user>.github.io/<repo>/` instead of a custom domain, set `BASE_PATH=/<repo>` for the build step.

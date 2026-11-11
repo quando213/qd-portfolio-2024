@@ -1,0 +1,947 @@
+{
+  "/images/earlier/911/1.jpg": {
+    "width": 1600,
+    "height": 922,
+    "small": {
+      "src": "/images/earlier/911/1.small.webp",
+      "width": 960,
+      "height": 553
+    }
+  },
+  "/images/earlier/911/2.jpg": {
+    "width": 1600,
+    "height": 922,
+    "small": {
+      "src": "/images/earlier/911/2.small.webp",
+      "width": 960,
+      "height": 553
+    }
+  },
+  "/images/earlier/911/3.jpg": {
+    "width": 1600,
+    "height": 922,
+    "small": {
+      "src": "/images/earlier/911/3.small.webp",
+      "width": 960,
+      "height": 553
+    }
+  },
+  "/images/earlier/ats-fair/1.jpg": {
+    "width": 1600,
+    "height": 899,
+    "small": {
+      "src": "/images/earlier/ats-fair/1.small.webp",
+      "width": 960,
+      "height": 539
+    }
+  },
+  "/images/earlier/ats-fair/2.jpg": {
+    "width": 1600,
+    "height": 901,
+    "small": {
+      "src": "/images/earlier/ats-fair/2.small.webp",
+      "width": 960,
+      "height": 541
+    }
+  },
+  "/images/earlier/ats-fair/3.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/ats-fair/3.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/bcure/1.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/bcure/1.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/bcure/2.jpg": {
+    "width": 1600,
+    "height": 901,
+    "small": {
+      "src": "/images/earlier/bcure/2.small.webp",
+      "width": 960,
+      "height": 541
+    }
+  },
+  "/images/earlier/bcure/3.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/bcure/3.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/bcure/4.jpg": {
+    "width": 1600,
+    "height": 898,
+    "small": {
+      "src": "/images/earlier/bcure/4.small.webp",
+      "width": 960,
+      "height": 539
+    }
+  },
+  "/images/earlier/climeal/1.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/climeal/1.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/climeal/2.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/climeal/2.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/climeal/3.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/climeal/3.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/climeal/4.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/climeal/4.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/dsvtl/1.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/dsvtl/1.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/dsvtl/2.jpg": {
+    "width": 1600,
+    "height": 899,
+    "small": {
+      "src": "/images/earlier/dsvtl/2.small.webp",
+      "width": 960,
+      "height": 539
+    }
+  },
+  "/images/earlier/dsvtl/3.jpg": {
+    "width": 1600,
+    "height": 899,
+    "small": {
+      "src": "/images/earlier/dsvtl/3.small.webp",
+      "width": 960,
+      "height": 539
+    }
+  },
+  "/images/earlier/dsvtl/4.jpg": {
+    "width": 1600,
+    "height": 899,
+    "small": {
+      "src": "/images/earlier/dsvtl/4.small.webp",
+      "width": 960,
+      "height": 539
+    }
+  },
+  "/images/earlier/maci-care/1.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/maci-care/1.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/maci-care/2.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/maci-care/2.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/maci-care/3.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/maci-care/3.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/maci-care/4.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/maci-care/4.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/maci-care/5.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/maci-care/5.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/maci-vitamin/1.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/maci-vitamin/1.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/maci-vitamin/2.jpg": {
+    "width": 1600,
+    "height": 899,
+    "small": {
+      "src": "/images/earlier/maci-vitamin/2.small.webp",
+      "width": 960,
+      "height": 539
+    }
+  },
+  "/images/earlier/maci-vitamin/3.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/maci-vitamin/3.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/maci-vitamin/4.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/maci-vitamin/4.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/maci-vitamin/5.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/maci-vitamin/5.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/maci-vitamin/6.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/maci-vitamin/6.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/medihome-care/1.jpg": {
+    "width": 1800,
+    "height": 1125,
+    "small": {
+      "src": "/images/earlier/medihome-care/1.small.webp",
+      "width": 960,
+      "height": 600
+    }
+  },
+  "/images/earlier/medihome-care/m-login.jpg": {
+    "width": 780,
+    "height": 1688,
+    "small": {
+      "src": "/images/earlier/medihome-care/m-login.small.webp",
+      "width": 444,
+      "height": 960
+    }
+  },
+  "/images/earlier/morinaga-yogurt/1.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/morinaga-yogurt/1.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/morinaga-yogurt/2.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/morinaga-yogurt/2.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/morinaga-yogurt/3.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/morinaga-yogurt/3.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/msb-concert/1.jpg": {
+    "width": 1800,
+    "height": 1012,
+    "small": {
+      "src": "/images/earlier/msb-concert/1.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/msb-concert/2.jpg": {
+    "width": 1800,
+    "height": 1012,
+    "small": {
+      "src": "/images/earlier/msb-concert/2.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/msb-concert/3.jpg": {
+    "width": 1800,
+    "height": 1012,
+    "small": {
+      "src": "/images/earlier/msb-concert/3.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/msb-concert/4.jpg": {
+    "width": 1800,
+    "height": 1012,
+    "small": {
+      "src": "/images/earlier/msb-concert/4.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/msb-concert/5.jpg": {
+    "width": 1800,
+    "height": 1012,
+    "small": {
+      "src": "/images/earlier/msb-concert/5.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/msb/1.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/msb/1.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/msb/2.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/msb/2.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/msb/3.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/msb/3.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/msb/4.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/msb/4.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/msb/5.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/msb/5.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/seabank/1.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/seabank/1.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/seabank/2.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/seabank/2.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/seabank/3.jpg": {
+    "width": 1600,
+    "height": 899,
+    "small": {
+      "src": "/images/earlier/seabank/3.small.webp",
+      "width": 960,
+      "height": 539
+    }
+  },
+  "/images/earlier/seabank/4.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/seabank/4.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/veevoy-website/1.jpg": {
+    "width": 1800,
+    "height": 1012,
+    "small": {
+      "src": "/images/earlier/veevoy-website/1.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/veevoy-website/2.jpg": {
+    "width": 1800,
+    "height": 1012,
+    "small": {
+      "src": "/images/earlier/veevoy-website/2.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/veevoy-website/3.jpg": {
+    "width": 1800,
+    "height": 1012,
+    "small": {
+      "src": "/images/earlier/veevoy-website/3.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/veevoy-website/4.jpg": {
+    "width": 1800,
+    "height": 1012,
+    "small": {
+      "src": "/images/earlier/veevoy-website/4.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/veevoy-website/5.jpg": {
+    "width": 1800,
+    "height": 1012,
+    "small": {
+      "src": "/images/earlier/veevoy-website/5.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/veevoy-website/6.jpg": {
+    "width": 1800,
+    "height": 1012,
+    "small": {
+      "src": "/images/earlier/veevoy-website/6.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/viso-spa/1.jpg": {
+    "width": 1600,
+    "height": 899,
+    "small": {
+      "src": "/images/earlier/viso-spa/1.small.webp",
+      "width": 960,
+      "height": 539
+    }
+  },
+  "/images/earlier/viso-spa/2.jpg": {
+    "width": 1600,
+    "height": 899,
+    "small": {
+      "src": "/images/earlier/viso-spa/2.small.webp",
+      "width": 960,
+      "height": 539
+    }
+  },
+  "/images/earlier/viso-spa/3.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/viso-spa/3.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/viso-spa/4.jpg": {
+    "width": 1600,
+    "height": 899,
+    "small": {
+      "src": "/images/earlier/viso-spa/4.small.webp",
+      "width": 960,
+      "height": 539
+    }
+  },
+  "/images/earlier/viso-spa/5.jpg": {
+    "width": 1600,
+    "height": 899,
+    "small": {
+      "src": "/images/earlier/viso-spa/5.small.webp",
+      "width": 960,
+      "height": 539
+    }
+  },
+  "/images/earlier/vrtg/1.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/vrtg/1.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/vrtg/2.jpg": {
+    "width": 1600,
+    "height": 901,
+    "small": {
+      "src": "/images/earlier/vrtg/2.small.webp",
+      "width": 960,
+      "height": 541
+    }
+  },
+  "/images/earlier/vrtg/3.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/vrtg/3.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/vrtg/4.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/vrtg/4.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/westlife-tour/1.jpg": {
+    "width": 1600,
+    "height": 899,
+    "small": {
+      "src": "/images/earlier/westlife-tour/1.small.webp",
+      "width": 960,
+      "height": 539
+    }
+  },
+  "/images/earlier/westlife-tour/2.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/westlife-tour/2.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/earlier/westlife-tour/3.jpg": {
+    "width": 1600,
+    "height": 900,
+    "small": {
+      "src": "/images/earlier/westlife-tour/3.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/work/fnol/calendar-desktop.jpg": {
+    "width": 1568,
+    "height": 751,
+    "small": {
+      "src": "/images/work/fnol/calendar-desktop.small.webp",
+      "width": 960,
+      "height": 460
+    }
+  },
+  "/images/work/fnol/ecg-analysis-desktop.jpg": {
+    "width": 1568,
+    "height": 751,
+    "small": {
+      "src": "/images/work/fnol/ecg-analysis-desktop.small.webp",
+      "width": 960,
+      "height": 460
+    }
+  },
+  "/images/work/fnol/login-desktop.jpg": {
+    "width": 1533,
+    "height": 784,
+    "small": {
+      "src": "/images/work/fnol/login-desktop.small.webp",
+      "width": 960,
+      "height": 491
+    }
+  },
+  "/images/work/fnol/login-mobile.jpg": {
+    "width": 724,
+    "height": 1568,
+    "small": {
+      "src": "/images/work/fnol/login-mobile.small.webp",
+      "width": 443,
+      "height": 960
+    }
+  },
+  "/images/work/fnol/open-requests-chat-desktop.jpg": {
+    "width": 1568,
+    "height": 751,
+    "small": {
+      "src": "/images/work/fnol/open-requests-chat-desktop.small.webp",
+      "width": 960,
+      "height": 460
+    }
+  },
+  "/images/work/fnol/patient-detail-desktop.jpg": {
+    "width": 1568,
+    "height": 751,
+    "small": {
+      "src": "/images/work/fnol/patient-detail-desktop.small.webp",
+      "width": 960,
+      "height": 460
+    }
+  },
+  "/images/work/fnol/patient-detail-mobile.jpg": {
+    "width": 764,
+    "height": 1568,
+    "small": {
+      "src": "/images/work/fnol/patient-detail-mobile.small.webp",
+      "width": 468,
+      "height": 960
+    }
+  },
+  "/images/work/fnol/patient-results-charts-desktop.jpg": {
+    "width": 1568,
+    "height": 751,
+    "small": {
+      "src": "/images/work/fnol/patient-results-charts-desktop.small.webp",
+      "width": 960,
+      "height": 460
+    }
+  },
+  "/images/work/fnol/questionnaire-builder-desktop.jpg": {
+    "width": 1568,
+    "height": 751,
+    "small": {
+      "src": "/images/work/fnol/questionnaire-builder-desktop.small.webp",
+      "width": 960,
+      "height": 460
+    }
+  },
+  "/images/work/fnol/request-chat-mobile.jpg": {
+    "width": 764,
+    "height": 1568,
+    "small": {
+      "src": "/images/work/fnol/request-chat-mobile.small.webp",
+      "width": 468,
+      "height": 960
+    }
+  },
+  "/images/work/fnol/workflow-builder-desktop.jpg": {
+    "width": 1568,
+    "height": 751,
+    "small": {
+      "src": "/images/work/fnol/workflow-builder-desktop.small.webp",
+      "width": 960,
+      "height": 460
+    }
+  },
+  "/images/work/grapeseed/1.jpg": {
+    "width": 1800,
+    "height": 1012,
+    "small": {
+      "src": "/images/work/grapeseed/1.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/work/grapeseed/2.jpg": {
+    "width": 1800,
+    "height": 1078,
+    "small": {
+      "src": "/images/work/grapeseed/2.small.webp",
+      "width": 960,
+      "height": 575
+    }
+  },
+  "/images/work/grapeseed/3.jpg": {
+    "width": 1800,
+    "height": 1012,
+    "small": {
+      "src": "/images/work/grapeseed/3.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/work/grapeseed/4.jpg": {
+    "width": 1800,
+    "height": 1012,
+    "small": {
+      "src": "/images/work/grapeseed/4.small.webp",
+      "width": 960,
+      "height": 540
+    }
+  },
+  "/images/work/mbv/careers.jpg": {
+    "width": 1800,
+    "height": 1125,
+    "small": {
+      "src": "/images/work/mbv/careers.small.webp",
+      "width": 960,
+      "height": 600
+    }
+  },
+  "/images/work/mbv/home.jpg": {
+    "width": 1800,
+    "height": 1125,
+    "small": {
+      "src": "/images/work/mbv/home.small.webp",
+      "width": 960,
+      "height": 600
+    }
+  },
+  "/images/work/mbv/loan.jpg": {
+    "width": 1800,
+    "height": 1125,
+    "small": {
+      "src": "/images/work/mbv/loan.small.webp",
+      "width": 960,
+      "height": 600
+    }
+  },
+  "/images/work/mbv/m-home.jpg": {
+    "width": 780,
+    "height": 1688,
+    "small": {
+      "src": "/images/work/mbv/m-home.small.webp",
+      "width": 444,
+      "height": 960
+    }
+  },
+  "/images/work/mbv/m-loan.jpg": {
+    "width": 780,
+    "height": 1688,
+    "small": {
+      "src": "/images/work/mbv/m-loan.small.webp",
+      "width": 444,
+      "height": 960
+    }
+  },
+  "/images/work/mbv/personal.jpg": {
+    "width": 1800,
+    "height": 1125,
+    "small": {
+      "src": "/images/work/mbv/personal.small.webp",
+      "width": 960,
+      "height": 600
+    }
+  },
+  "/images/work/mbv/rates.jpg": {
+    "width": 1800,
+    "height": 1125,
+    "small": {
+      "src": "/images/work/mbv/rates.small.webp",
+      "width": 960,
+      "height": 600
+    }
+  },
+  "/images/work/pulnoci/dark-09-genitive-table.jpg": {
+    "width": 1800,
+    "height": 1125,
+    "small": {
+      "src": "/images/work/pulnoci/dark-09-genitive-table.small.webp",
+      "width": 960,
+      "height": 600
+    }
+  },
+  "/images/work/pulnoci/dark-1-learn.jpg": {
+    "width": 1800,
+    "height": 1125,
+    "small": {
+      "src": "/images/work/pulnoci/dark-1-learn.small.webp",
+      "width": 960,
+      "height": 600
+    }
+  },
+  "/images/work/pulnoci/dark-14-grammar-index.jpg": {
+    "width": 1800,
+    "height": 1125,
+    "small": {
+      "src": "/images/work/pulnoci/dark-14-grammar-index.small.webp",
+      "width": 960,
+      "height": 600
+    }
+  },
+  "/images/work/pulnoci/dark-7-words.jpg": {
+    "width": 1800,
+    "height": 1125,
+    "small": {
+      "src": "/images/work/pulnoci/dark-7-words.small.webp",
+      "width": 960,
+      "height": 600
+    }
+  },
+  "/images/work/pulnoci/dark-8-settings.jpg": {
+    "width": 1800,
+    "height": 1125,
+    "small": {
+      "src": "/images/work/pulnoci/dark-8-settings.small.webp",
+      "width": 960,
+      "height": 600
+    }
+  },
+  "/images/work/pulnoci/light-10-plural-rule.jpg": {
+    "width": 1800,
+    "height": 1125,
+    "small": {
+      "src": "/images/work/pulnoci/light-10-plural-rule.small.webp",
+      "width": 960,
+      "height": 600
+    }
+  },
+  "/images/work/pulnoci/light-11-noun-endings.jpg": {
+    "width": 1800,
+    "height": 1125,
+    "small": {
+      "src": "/images/work/pulnoci/light-11-noun-endings.small.webp",
+      "width": 960,
+      "height": 600
+    }
+  },
+  "/images/work/pulnoci/light-12-search.jpg": {
+    "width": 1800,
+    "height": 1125,
+    "small": {
+      "src": "/images/work/pulnoci/light-12-search.small.webp",
+      "width": 960,
+      "height": 600
+    }
+  },
+  "/images/work/pulnoci/light-13-reading.jpg": {
+    "width": 1800,
+    "height": 1125,
+    "small": {
+      "src": "/images/work/pulnoci/light-13-reading.small.webp",
+      "width": 960,
+      "height": 600
+    }
+  },
+  "/images/work/pulnoci/light-4-grammar-answer.jpg": {
+    "width": 1800,
+    "height": 1125,
+    "small": {
+      "src": "/images/work/pulnoci/light-4-grammar-answer.small.webp",
+      "width": 960,
+      "height": 600
+    }
+  },
+  "/images/work/pulnoci/light-6-practice.jpg": {
+    "width": 1800,
+    "height": 1125,
+    "small": {
+      "src": "/images/work/pulnoci/light-6-practice.small.webp",
+      "width": 960,
+      "height": 600
+    }
+  },
+  "/images/work/pulnoci/phone-dark-1-learn.jpg": {
+    "width": 780,
+    "height": 1688,
+    "small": {
+      "src": "/images/work/pulnoci/phone-dark-1-learn.small.webp",
+      "width": 444,
+      "height": 960
+    }
+  },
+  "/images/work/pulnoci/phone-dark-2-word-question.jpg": {
+    "width": 780,
+    "height": 1688,
+    "small": {
+      "src": "/images/work/pulnoci/phone-dark-2-word-question.small.webp",
+      "width": 444,
+      "height": 960
+    }
+  },
+  "/images/work/pulnoci/phone-dark-3-word-answer.jpg": {
+    "width": 780,
+    "height": 1688,
+    "small": {
+      "src": "/images/work/pulnoci/phone-dark-3-word-answer.small.webp",
+      "width": 444,
+      "height": 960
+    }
+  },
+  "/images/work/pulnoci/phone-dark-5-genitive.jpg": {
+    "width": 780,
+    "height": 1688,
+    "small": {
+      "src": "/images/work/pulnoci/phone-dark-5-genitive.small.webp",
+      "width": 444,
+      "height": 960
+    }
+  },
+  "/images/work/pulnoci/phone-light-13-reading.jpg": {
+    "width": 780,
+    "height": 1688,
+    "small": {
+      "src": "/images/work/pulnoci/phone-light-13-reading.small.webp",
+      "width": 444,
+      "height": 960
+    }
+  },
+  "/images/work/pulnoci/phone-light-14-grammar-index.jpg": {
+    "width": 780,
+    "height": 1688,
+    "small": {
+      "src": "/images/work/pulnoci/phone-light-14-grammar-index.small.webp",
+      "width": 444,
+      "height": 960
+    }
+  }
+}
