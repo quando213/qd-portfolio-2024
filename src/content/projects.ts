@@ -187,7 +187,7 @@ const all: Project[] = [
     summary:
       'The public website of MBV: personal and business banking, interest-rate and exchange-rate tools, news and careers.',
     highlights: [
-      'Led the frontend of a bank’s new website, authoring more than half the merged pull requests (128 of 242) and reviewing the rest of the team’s.',
+      'Led frontend delivery of a bank’s new website on a tight timeline with a small team, adapting quickly as designs and requirements evolved with many stakeholders at the bank.',
       'Designed how pages work: editors build any page in the CMS from around 25 section types, and the site renders it across five levels of pages.',
       'Created a library of reusable sections, from bento grids to sticky tabs, that editors combine without a developer.',
       'Gave the homepage a personal touch: a greeting that changes with the time of day.'
@@ -195,7 +195,7 @@ const all: Project[] = [
     tech: 'Next.js, React, TypeScript, Tailwind CSS, next-intl, GSAP',
     period: 'Nov 2024 – Mar 2025',
     role: 'Frontend lead (freelance, through an agency)',
-    team: 'Six developers. I authored 128 of the 242 merged pull requests, and reviewed and merged the team’s work.',
+    team: 'A small development team at the agency, working with many stakeholders at the bank. I wrote more than half of the website’s merged pull requests.',
     images: [
       { src: mbv('personal'), frame: 'laptop', backdrop: 0 },
       { src: mbv('home'), frame: 'browser', backdrop: 1 },
@@ -204,7 +204,7 @@ const all: Project[] = [
     ],
     href: 'https://www.mbv.com.vn',
     intro: [
-      'I was the frontend lead on MBV’s new website, working freelance through an agency from designs provided to us. I set up the frontend, built most of its pages and sections, and reviewed and merged the rest of the team’s work.'
+      'I was the frontend lead on MBV’s new website, working freelance through an agency from designs provided to us. I set up the frontend and built most of its pages and sections, on a tight timeline while the designs and requirements evolved.'
     ],
     chapters: [
       {
