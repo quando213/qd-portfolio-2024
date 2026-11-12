@@ -269,6 +269,24 @@
       "height": 600
     }
   },
+  "/images/earlier/medihome-care/2.jpg": {
+    "width": 1800,
+    "height": 1125,
+    "small": {
+      "src": "/images/earlier/medihome-care/2.small.webp",
+      "width": 960,
+      "height": 600
+    }
+  },
+  "/images/earlier/medihome-care/3.jpg": {
+    "width": 1800,
+    "height": 1125,
+    "small": {
+      "src": "/images/earlier/medihome-care/3.small.webp",
+      "width": 960,
+      "height": 600
+    }
+  },
   "/images/earlier/medihome-care/m-login.jpg": {
     "width": 780,
     "height": 1688,

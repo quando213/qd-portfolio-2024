@@ -509,7 +509,7 @@ export const earlierWork: EarlierProject[] = [
     slug: 'medihome-care',
     via: 'veevoy',
     year: '2026',
-    shots: 1,
+    shots: 3,
     cover: {
       src: '/images/earlier/medihome-care/1.jpg',
       second: '/images/earlier/medihome-care/m-login.jpg',
