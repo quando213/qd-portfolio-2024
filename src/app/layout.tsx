@@ -23,14 +23,14 @@ const sourceSerif = Source_Serif_4({
 export const metadata: Metadata = {
   metadataBase: new URL(profile.siteUrl),
   title: {
-    default: `${profile.name}, frontend developer`,
+    default: `${profile.name}, ${profile.role.toLowerCase()}`,
     template: `%s | ${profile.name}`
   },
   description: profile.intro,
   openGraph: {
     type: 'website',
     siteName: profile.name,
-    title: `${profile.name}, frontend developer`,
+    title: `${profile.name}, ${profile.role.toLowerCase()}`,
     description: profile.intro
   }
 }

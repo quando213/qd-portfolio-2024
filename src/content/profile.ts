@@ -1,6 +1,6 @@
 export const profile = {
   name: 'Quan Do',
-  role: 'Frontend developer',
+  role: 'Senior frontend developer',
   location: 'Prague, Czech Republic',
   email: 'quando213x@gmail.com',
   siteUrl: 'https://quando.dev',
@@ -12,7 +12,7 @@ export const profile = {
   cvFile: 'quan-do-cv.pdf',
   headline: 'I turn complex products into polished, easy-to-use interfaces.',
   intro:
-    'Frontend developer with a strong UI/UX eye. I turn complex products into polished, accessible, easy-to-use web apps with React and Next.js, and ship fast by directing AI coding agents.',
+    'Senior frontend developer with a strong UI/UX eye. I turn complex products into polished, accessible, easy-to-use web apps with React and Next.js, and ship fast by directing AI coding agents.',
   /** Not shown on the site at the moment. */
   about: [
     'I’ve been building for the web since 2018. My strength is complex, data-heavy interfaces: form builders with conditional logic, live request queues, trend charts with alert thresholds, multi-step creation flows. I care about the details that make them feel finished, from keyboard access and screen-reader labels to responsive layouts and the wording on every button.',
