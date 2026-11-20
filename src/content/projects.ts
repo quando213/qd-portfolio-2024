@@ -49,7 +49,7 @@ export type Project = {
 const fnol = (f: string) => `/images/work/fnol/${f}.jpg`
 const mbv = (f: string) => `/images/work/mbv/${f}.jpg`
 const gs = (n: number) => `/images/work/grapeseed/${n}.jpg`
-const pul = (f: string) => `/images/work/pulnoci/${f}.jpg`
+const pul = (f: string) => `/images/work/pulnoc/${f}.jpg`
 
 const all: Project[] = [
   {
@@ -325,10 +325,10 @@ const all: Project[] = [
     ]
   },
   {
-    slug: 'pulnoci',
+    slug: 'pulnoc',
     colors: { primary: '#1d2b4f', secondary: '#f2b136' },
     themes: ['lines', 'grid', 'dots'],
-    name: 'Půlnoci',
+    name: 'Půlnoc',
     client: 'Personal project',
     status: 'In development',
     summary:
@@ -362,7 +362,7 @@ const all: Project[] = [
       { src: pul('dark-09-genitive-table'), frame: 'float', backdrop: 1 }
     ],
     intro: [
-      'I’m learning Czech, so I built the app I wanted to practise with. Půlnoci is my own project from end to end: the product, the interface, the frontend, the API, the database and the deployment.'
+      'I’m learning Czech, so I built the app I wanted to practise with. Půlnoc is my own project from end to end: the product, the interface, the frontend, the API, the database and the deployment.'
     ],
     chapters: [
       {
@@ -415,7 +415,7 @@ const all: Project[] = [
       {
         title: 'Built by directing AI agents',
         body: [
-          'I built Půlnoci with Claude Code: I set the product direction, the UX and the copy, and reviewed every change before it merged. In its first nine days that came to 266 commits, with tests across the content and the app logic, and every push to main tested and deployed automatically.'
+          'I built Půlnoc with Claude Code: I set the product direction, the UX and the copy, and reviewed every change before it merged. In its first nine days that came to 266 commits, with tests across the content and the app logic, and every push to main tested and deployed automatically.'
         ]
       }
     ],
@@ -454,7 +454,7 @@ export const projects = all.filter((p) => !p.hidden)
 
 /** Devices layered beside the homepage headline, one project on each, to show the range. */
 export const heroScreens = {
-  label: 'FNOL Telemedicine on a laptop, GrapeSEED on a tablet, and Půlnoci and MBV on phones',
+  label: 'FNOL Telemedicine on a laptop, GrapeSEED on a tablet, and Půlnoc and MBV on phones',
   laptop: fnol('patient-results-charts-desktop'),
   tablet: gs(2),
   phones: [pul('phone-dark-1-learn'), mbv('m-home')]
